@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">nouppercase</string>
+    <string name="action_settings">Settings</string>
+  <string name="googlemapskey">AIzaSyAB6dJCYRWA1PtBub0IQZ4nQd-75zMsu44</string>
+</resources>
